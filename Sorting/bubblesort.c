@@ -1,6 +1,6 @@
 // Bubble sort is a subtract and conquer algorithm which checks the current element with next element.
-// Best time complexity here in this implementation is O(n^2)
-// Worst time complexity here in this implementation is o(n^2)
+// Best case time complexity here in this implementation is O(n^2)
+// Worst case time complexity here in this implementation is O(n^2)
 // This implementation is dependent on structure i.e. it does not matter what is the content of the array it will iterate same number of times.
 #include <stdio.h>
 void swap(int *firstElement, int *secondElement)
